@@ -4,9 +4,9 @@
   <img src="https://logos-world.net/wp-content/uploads/2021/08/Booking-Logo.png" width="400" height="200" title="Booking_Logo">
 </p>
 
-# Booking.com - Web - Lesson 2 - Nightwatch
+# Booking.com - Web - Lesson 2 - Parallel Testing - Javascript
 
-This repository contains a standard repository for NightwatchJS.
+This repository contains a standard repository for Playwright that is set up on the BrowserStack SDK to run tests against BrowserStack.
 
 This is the Javascript version of the Repository, the Typescript version can be found at https://github.com/Manual-To-Automation-Booking-Amsterdam/Web-Lesson-2-Parallel-Testing-TS
 
